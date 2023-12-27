@@ -1,2 +1,2 @@
 # adventofcode
-Advent of Code inputs and solutions
+Advent of Code solutions
