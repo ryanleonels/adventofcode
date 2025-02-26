@@ -80,4 +80,4 @@ while ptr < n:
 	step += 1
 	if step % 1000 == 0 or ptr >= n:
 		print("step=" + str(step) + " ptr=" + str(ptr) + " a=" + str(a) + " b=" + str(b) + " c=" + str(c) + " d=" + str(d))
-print(math.factorial(12) - math.factorial(7) + a)
+print(math.factorial(12) - math.factorial(7) + a) # as it creates a pattern where (final a) = (initial a)! + (some constant)
