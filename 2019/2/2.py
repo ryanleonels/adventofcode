@@ -1,6 +1,5 @@
 #!/usr/local/bin/python3
 
-total = 0
 fileHandle = open("2.in", "r")
 fileData = fileHandle.read()
 fileHandle.close()
