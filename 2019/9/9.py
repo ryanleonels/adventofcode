@@ -1,7 +1,5 @@
 #!/usr/local/bin/python3
 
-from itertools import permutations
-
 fileHandle = open("9.in", "r")
 fileData = fileHandle.read()
 fileHandle.close()
