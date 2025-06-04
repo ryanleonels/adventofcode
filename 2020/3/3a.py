@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-import math
-
 (trees1, trees2, trees3, trees4, trees5) = (0, 0, 0, 0, 0)
 fileHandle = open("3.in", "r")
 fileData = fileHandle.read()
