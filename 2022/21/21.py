@@ -17,7 +17,7 @@ for fileLine in fileLines:
 while not done:
 	done = True
 	for monkey in monkeys:
-		if type(monkeys[monkey]) is not int: 
+		if type(monkeys[monkey]) is not int:
 			(left, op, right) = monkeys[monkey]
 			if type(monkeys[left]) is int and type(monkeys[right]) is int:
 				done = False
